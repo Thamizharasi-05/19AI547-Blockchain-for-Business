@@ -113,4 +113,9 @@ Uses Ethereum's built-in cryptographic functions.
 
 Inspired by Web3 login solutions like MetaMask authentication.
 
+# OUTPUT:
+
+
 # RESULT: 
+
+Hence we implemented code for Blockchain-Based Passwordless Authentication (Using Public-Private Key Cryptography)
